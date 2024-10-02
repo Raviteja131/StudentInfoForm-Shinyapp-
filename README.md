@@ -2,9 +2,7 @@
 StudentInfoForm(Shinyapp)
 
 link:- https://ravitejamoningi.shinyapps.io/StudentInfoForm/  
-
 Code:-
-
 library(shiny)
 
 # Define the UI
